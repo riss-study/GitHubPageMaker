@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>훌륭한 개발자가 되기 위한 리스의 공간입니다.</description>
+    <link>
+    https://rissD.github.io</link>
+    
+      
+      <item>
+        <title>Spring - Spring Security (OAuth2) 설정을 위한 Class 생성</title>
+        
+          <description>&lt;p&gt;기존에 사용하던 WebSecurityConfigurerAdapter Class 가 Deprecated 되었다.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 02 Dec 2022 02:00:00 +0000</pubDate>
+        <link>
+        https://rissD.github.io/spring-security-config-class</link>
+        <guid isPermaLink="true">https://rissD.github.io/spring-security-config-class</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>etc - 두 번째 포스팅!!</title>
+        
+          <description>&lt;p&gt;테스트용 두 번째 게시글&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 27 Nov 2022 22:00:00 +0000</pubDate>
+        <link>
+        https://rissD.github.io/etc-second</link>
+        <guid isPermaLink="true">https://rissD.github.io/etc-second</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Spring - 첫 포스팅!!</title>
+        
+          <description>&lt;p&gt;리스는 왜 스프링을 선택했을까..?&lt;br /&gt;
+이 글을 적으며… 드는 생각&lt;br /&gt;
+아 공부 처음부터 다시 해야겠다..ㅎㅎ 
+앞으로 열심히 정리해볼개혁!!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 27 Nov 2022 21:00:00 +0000</pubDate>
+        <link>
+        https://rissD.github.io/spring-first</link>
+        <guid isPermaLink="true">https://rissD.github.io/spring-first</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>etc - 첫 포스팅!!</title>
+        
+          <description>&lt;p&gt;안녕하세요. 첫 포스팅입니다!!&lt;br /&gt;
+우앙… 지난 1년 동안 블로그, 깃허브 정리?? 요런거 왜…함..? 이랬던 제가..&lt;br /&gt;
+드디어 정신을 차리고 블로그를 만들어보게 되었습니다~!&lt;br /&gt;
+지난 1년동안 회사 프로젝트가 많다는 핑계로 포트폴리오는커녕 깃허브 관리도 제대로 하지 않았네요…ㅎㅎ&lt;br /&gt;
+앞으로 1년차 주니어 백엔드 개발자 리스의 성장 일지를 채워나가면서 훌륭한 개발자가 되어보겠습니다!!  &lt;br /&gt;
+(p.s. 노래 부르는 걸 정말 많이 좋아합니다. 그래서 음악 관련 일지도 올려보려구요 ㅎㅎ)&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 27 Nov 2022 21:00:00 +0000</pubDate>
+        <link>
+        https://rissD.github.io/etc-first</link>
+        <guid isPermaLink="true">https://rissD.github.io/etc-first</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

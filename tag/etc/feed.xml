@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://rissd.github.io/tag/etc/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://rissd.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-12-05T06:14:20+00:00</updated>
+  <id>https://rissd.github.io/tag/etc/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">리스의 개발자 일지 | </title>
+  
+
+  
+    <subtitle>훌륭한 개발자가 되기 위한 리스의 공간입니다.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">etc - 두 번째 포스팅!!</title>
+      <link href="https://rissd.github.io/etc-second" rel="alternate" type="text/html" title="etc - 두 번째 포스팅!!" />
+      <published>2022-11-27T22:00:00+00:00</published>
+      <updated>2022-11-27T22:00:00+00:00</updated>
+      <id>https://rissd.github.io/etc-second</id>
+      <content type="html" xml:base="https://rissd.github.io/etc-second">&lt;p&gt;테스트용 두 번째 게시글&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>rissD</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="etc" />
+      
+
+      
+        <summary type="html">테스트용 두 번째 게시글</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">etc - 첫 포스팅!!</title>
+      <link href="https://rissd.github.io/etc-first" rel="alternate" type="text/html" title="etc - 첫 포스팅!!" />
+      <published>2022-11-27T21:00:00+00:00</published>
+      <updated>2022-11-27T21:00:00+00:00</updated>
+      <id>https://rissd.github.io/etc-first</id>
+      <content type="html" xml:base="https://rissd.github.io/etc-first">&lt;p&gt;안녕하세요. 첫 포스팅입니다!!&lt;br /&gt;
+우앙… 지난 1년 동안 블로그, 깃허브 정리?? 요런거 왜…함..? 이랬던 제가..&lt;br /&gt;
+드디어 정신을 차리고 블로그를 만들어보게 되었습니다~!&lt;br /&gt;
+지난 1년동안 회사 프로젝트가 많다는 핑계로 포트폴리오는커녕 깃허브 관리도 제대로 하지 않았네요…ㅎㅎ&lt;br /&gt;
+앞으로 1년차 주니어 백엔드 개발자 리스의 성장 일지를 채워나가면서 훌륭한 개발자가 되어보겠습니다!!  &lt;br /&gt;
+(p.s. 노래 부르는 걸 정말 많이 좋아합니다. 그래서 음악 관련 일지도 올려보려구요 ㅎㅎ)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>rissD</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="etc" />
+      
+
+      
+        <summary type="html">안녕하세요. 첫 포스팅입니다!! 우앙… 지난 1년 동안 블로그, 깃허브 정리?? 요런거 왜…함..? 이랬던 제가.. 드디어 정신을 차리고 블로그를 만들어보게 되었습니다~! 지난 1년동안 회사 프로젝트가 많다는 핑계로 포트폴리오는커녕 깃허브 관리도 제대로 하지 않았네요…ㅎㅎ 앞으로 1년차 주니어 백엔드 개발자 리스의 성장 일지를 채워나가면서 훌륭한 개발자가 되어보겠습니다!! (p.s. 노래 부르는 걸 정말 많이 좋아합니다. 그래서 음악 관련 일지도 올려보려구요 ㅎㅎ)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
