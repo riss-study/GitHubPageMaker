@@ -1,0 +1,16 @@
+jekyll:
+  name: jekyll
+  description: False
+  cover: assets/built/images/blog-cover1.png
+spring:
+  name: spring
+  description: False
+  cover: assets/built/images/spring.png
+web:
+  name: economy
+  description: False
+  cover: assets/built/images/blog-cover1.png
+etc:
+  name: etc
+  description: False
+  cover: assets/built/images/riss1.png

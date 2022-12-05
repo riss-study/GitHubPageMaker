@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rissD.github.io/sitemap.xml
